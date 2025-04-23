@@ -1,0 +1,101 @@
+ID,Location,House_Type,Quality,Bedrooms,Parking,Price
+1,Austin,Villa,Medium,5,Yes,780000
+2,Los Angeles,Townhouse,Low,2,Yes,343000
+3,Chicago,Villa,Low,5,Yes,377000
+4,San Francisco,Townhouse,Low,3,Yes,397000
+5,San Francisco,Apartment,Low,1,No,330000
+6,Austin,Townhouse,High,2,No,1109000
+7,Seattle,Townhouse,Medium,4,Yes,770000
+8,Chicago,Apartment,Medium,4,No,640000
+9,Seattle,Villa,Medium,5,No,895000
+10,Austin,Apartment,High,4,No,1030000
+11,New York,Apartment,High,4,No,1390000
+12,Chicago,Villa,High,3,Yes,1449000
+13,San Francisco,Villa,High,4,No,1912000
+14,Seattle,Villa,Medium,3,No,875000
+15,Seattle,Villa,Medium,3,Yes,890000
+16,Austin,Apartment,High,5,No,1040000
+17,Chicago,Townhouse,Low,3,Yes,309000
+18,Chicago,Townhouse,Low,5,Yes,329000
+19,Austin,Villa,Medium,2,No,735000
+20,Seattle,Villa,Medium,5,Yes,910000
+21,Austin,Apartment,Low,5,Yes,285000
+22,Los Angeles,Townhouse,Low,5,No,358000
+23,New York,Apartment,High,5,Yes,1415000
+24,Seattle,Townhouse,Low,2,No,306000
+25,Austin,Villa,Medium,4,Yes,770000
+26,Chicago,Apartment,Medium,5,No,650000
+27,Seattle,Villa,High,1,Yes,1546000
+28,Chicago,Townhouse,Low,1,Yes,289000
+29,New York,Villa,Low,5,No,440000
+30,Chicago,Villa,Medium,5,Yes,845000
+31,San Francisco,Apartment,Low,4,Yes,375000
+32,New York,Apartment,High,1,No,1360000
+33,Los Angeles,Townhouse,Low,2,No,328000
+34,Los Angeles,Townhouse,Medium,5,No,820000
+35,New York,Townhouse,High,4,No,1525000
+36,New York,Villa,High,3,No,1785000
+37,San Francisco,Townhouse,High,5,No,1634000
+38,San Francisco,Apartment,High,4,No,1480000
+39,Los Angeles,Townhouse,Low,2,Yes,343000
+40,Austin,Townhouse,Medium,3,Yes,650000
+41,New York,Apartment,High,1,No,1360000
+42,New York,Apartment,Low,4,Yes,355000
+43,Seattle,Apartment,Medium,3,No,680000
+44,Seattle,Apartment,High,5,No,1220000
+45,New York,Apartment,High,3,Yes,1395000
+46,San Francisco,Apartment,Low,3,Yes,365000
+47,New York,Apartment,Low,4,Yes,355000
+48,New York,Apartment,Low,5,Yes,365000
+49,Austin,Townhouse,Medium,1,No,615000
+50,New York,Apartment,Low,5,Yes,365000
+51,New York,Townhouse,Low,2,Yes,365000
+52,San Francisco,Apartment,Medium,1,Yes,825000
+53,Seattle,Villa,Low,4,Yes,393000
+54,Seattle,Apartment,Low,1,Yes,285000
+55,Los Angeles,Villa,Low,5,No,414000
+56,Chicago,Apartment,Low,2,Yes,275000
+57,Seattle,Villa,High,5,No,1571000
+58,New York,Townhouse,Low,1,No,340000
+59,San Francisco,Villa,Low,3,Yes,461000
+60,San Francisco,Apartment,High,5,Yes,1505000
+61,Chicago,Villa,Low,4,Yes,367000
+62,New York,Apartment,Low,5,No,350000
+63,Chicago,Apartment,Medium,3,Yes,645000
+64,Seattle,Villa,High,5,Yes,1586000
+65,Austin,Villa,Low,3,Yes,331000
+66,Los Angeles,Apartment,High,4,No,1300000
+67,New York,Apartment,Medium,1,Yes,775000
+68,New York,Villa,Medium,3,Yes,1020000
+69,Seattle,Townhouse,Low,4,Yes,341000
+70,Los Angeles,Townhouse,Medium,5,Yes,835000
+71,Austin,Villa,Low,2,Yes,321000
+72,Seattle,Townhouse,Low,4,Yes,341000
+73,Los Angeles,Townhouse,Medium,5,No,820000
+74,San Francisco,Villa,Low,4,Yes,471000
+75,New York,Townhouse,High,4,No,1525000
+76,Chicago,Apartment,Low,4,Yes,295000
+77,Seattle,Apartment,Low,1,Yes,285000
+78,Los Angeles,Townhouse,High,4,Yes,1441000
+79,Los Angeles,Apartment,Low,2,No,300000
+80,Los Angeles,Apartment,High,1,Yes,1285000
+81,Chicago,Apartment,High,5,Yes,1145000
+82,Austin,Townhouse,Medium,1,No,615000
+83,San Francisco,Townhouse,Low,1,No,362000
+84,New York,Townhouse,Medium,5,Yes,890000
+85,New York,Townhouse,High,1,Yes,1510000
+86,Seattle,Townhouse,Low,4,Yes,341000
+87,Los Angeles,Villa,Medium,3,Yes,955000
+88,New York,Apartment,Low,1,No,310000
+89,Los Angeles,Townhouse,Low,1,Yes,333000
+90,San Francisco,Apartment,Medium,3,No,830000
+91,San Francisco,Villa,Low,4,Yes,471000
+92,New York,Villa,High,5,No,1805000
+93,Austin,Apartment,Low,1,No,230000
+94,Seattle,Apartment,Low,3,No,290000
+95,Seattle,Apartment,Low,2,Yes,295000
+96,Los Angeles,Townhouse,Low,4,Yes,363000
+97,San Francisco,Villa,Low,3,Yes,461000
+98,Chicago,Villa,Medium,1,No,790000
+99,San Francisco,Apartment,High,1,No,1450000
+100,San Francisco,Villa,Medium,5,Yes,1105000
